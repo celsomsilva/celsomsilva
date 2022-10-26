@@ -1,3 +1,8 @@
+<p align="middle">
+  <img src="images/animated-welcome-image-0288.gif">
+</p>
+<br><br><br>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="middle">
+  <img src="images/smile.gif">
+</p>
