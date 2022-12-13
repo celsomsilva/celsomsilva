@@ -11,6 +11,10 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celsomsilva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!--if you have ever used git on the cmdline its basically the same thing
+here`s the url to make a token: https://github.com/settings/tokens
+how to add an env var to Vercel: https://vercel.com/docs/concepts/projects/environment-variables-->
+
 <br>
 <br>
 <br>
