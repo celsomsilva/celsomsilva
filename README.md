@@ -4,6 +4,7 @@
 <br><br><br>
 
 ### Hi there 👋 <br>
+
 <br><br>
 🔒 Please note that I have several private repositories in addition to the public ones you can see here(capstone projects, thesis, private projects, etc.). These private projects contain work that is currently in progress, proprietary or for personal use. While you may not have access to them, feel free to explore my public repositories to get an idea of my coding style and projects I am working on. If you have any questions or would like to collaborate, feel free to reach out.
 <br><br>
