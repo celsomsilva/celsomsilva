@@ -26,6 +26,9 @@ I’m currently working on:
 - **Deep Learning models**, for hierarchical data too
 - **Machine Lerning models**, including hierarchical models
 - **Java, C, R, Python and Rust** projects
+- Integrating statistical modeling principles into Machine Learning and Deep Learning projects.
+
+
 
 ## Let’s connect!
 
