@@ -3,11 +3,38 @@
 </p>
 <br><br><br>
 
-### Hi there 👋 <br>
+# 👋 Welcome to my GitHub!
 
-<br><br>
-🔒 Please note that I have several private repositories in addition to the public ones you can see here(capstone projects, thesis, private projects, etc.). These private projects contain work that is currently in progress, proprietary or for personal use. While you may not have access to them, feel free to explore my public repositories to get an idea of my coding style and projects I am working on. If you have any questions or would like to collaborate, feel free to reach out.
-<br><br>
+I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, and Java development.
+
+## About this GitHub
+
+This space serves as both a professional portfolio and an educational hub for developers and data enthusiasts.  
+Here you’ll find a mix of:
+
+- **Educational Java projects** for students and beginners
+- **Research projects**: including my thesis on Nonlinear Multilevel Modeling simulating Neural Networks
+- **AI and LLM experiments** in Java and Python
+- **Quantum Machine Learning studies** integrating classical and quantum approaches
+- **Data analysis and ML projects** using Python, R, and Java ML libraries
+- **And more** ...
+
+## Upcoming Projects
+
+I’m currently working on:
+- **Agents based on LLMs** written in Java and Python
+- **Deep Learning models**, for hierarchical data too
+- **Machine Lerning models**, including hierarchical models
+- **Java, C, R, Python and Rust** projects
+
+## Let’s connect!
+
+If you’re interested in collaborating, learning, or just having a good conversation about AI, ML, Java, or tech in general — feel free to reach out.
+
+---
+
+📅 Coding since 2005 | Sharing knowledge always.
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats)
 
