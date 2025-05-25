@@ -28,7 +28,11 @@ I’m currently working on:
 - **Java, C, R, Python and Rust** projects
 - Integrating statistical modeling principles into Machine Learning and Deep Learning projects.
 
+## About Private Projects
 
+In addition to the public repositories you see here, I also maintain several private projects — including capstone projects, academic research, my thesis, and experimental developments.
+
+While these are not publicly available, feel free to explore my public repos to get a sense of my coding style, interests, and the areas I'm currently working on.
 
 ## Let’s connect!
 
