@@ -3,7 +3,7 @@
 </p>
 <br><br><br>
 
-# 👋 Welcome to my GitHub!
+# 👋 Welcome to my GitHub
 
 I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, and Java development.
 
@@ -34,7 +34,7 @@ In addition to the public repositories you see here, I also maintain several pri
 
 While these are not publicly available, feel free to explore my public repos to get a sense of my coding style, interests, and the areas I'm currently working on.
 
-## Let’s connect!
+## Let’s connect
 
 If you’re interested in collaborating, learning, or just having a good conversation about AI, ML, Java, or tech in general — feel free to reach out.
 
