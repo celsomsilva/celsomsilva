@@ -5,7 +5,7 @@
 
 # 👋 Welcome to my GitHub
 
-I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, and Java development.
+I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, and C/Java/R/Python development.
 
 ## About this GitHub
 
