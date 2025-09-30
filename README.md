@@ -5,7 +5,7 @@
 
 # Welcome to my GitHub
 
-I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, Statistic Models and C/Java/R/Python development.
+I'm Celso, a Computer Engineer and Data Science Specialist with a passion for AI, Machine Learning, Statistical Models, and C/Java/R/Python development.
 
 ## About this GitHub
 
@@ -26,7 +26,7 @@ Here you’ll find a mix of:
 - **Machine Learning models**, including hierarchical models
 - Projects in **Java, C, R, Python, and Rust**  
 - **Algorithmic Benchmark Suite** (R + Legacy Pascal/C)
-- **Integration statistical modeling principles into Machine Learning and Deep Learning projects**
+- **Integration of statistical modeling principles into Machine Learning and Deep Learning projects**
 - **Quantum Machine Learning studies** integrating classical and quantum approaches
 
 
