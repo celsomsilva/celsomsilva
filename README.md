@@ -21,7 +21,7 @@ Here you’ll find a mix of:
 
 
 - **AI and LLM experiments** in Java and Python
-- **Agent-based models** powered by LLMs  
+- **Agent-based models** powered by LLMs (agents Java too).
 - **Deep Learning models**
 - **Machine Learning models**, including hierarchical models
 - Projects in **Java, C, R, Python, and Rust**  
@@ -49,7 +49,7 @@ If you’re interested in collaborating, learning, or just having a good convers
 
 ---
 
-📅 Coding since 2005 | Sharing knowledge always.
+📅 Coding Java/C since 2005 | Palcal/Assembly since 1996 | Sharing knowledge always.
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats)
