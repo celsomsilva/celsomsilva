@@ -34,6 +34,7 @@ The public repositories reflect my coding style, research interests, and current
 If you’re interested in collaborating, learning, or just having a good conversation about AI, ML, Java, or tech in general — feel free to reach out.
 
 [LinkedIn](https://linkedin.com/in/celso-m-silva)
+
 [E-mail](mailto:celsomsilvabr@proton.me)
 
 
