@@ -8,9 +8,12 @@ I'm Celso, a Computer Engineer and Data Science Specialist focused on AI, Machin
 This GitHub combines research, engineering, and practical examples.  
 You’ll find:
 
-- **Java projects** (from fundamentals to practical applications)
+- **Java, R, Python projects** (from fundamentals to practical applications)
 - **Research & models** based on real statistical analysis
-- **Machine Learning and Data Science projects** in Python/R
+- **AI, Machine Learning and Data Science projects** in Python/R/Java
+- **Educational projects**
+- **Final projects from hackathons and challenges**
+- And more.
 
 
 ### Upcoming
@@ -47,7 +50,7 @@ If you’re interested in collaborating, learning, or just having a good convers
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats)
 
 
 
