@@ -50,9 +50,4 @@ If you’re interested in collaborating, learning, or just having a good convers
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats)
-
-
-
-
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=celsomsilva&theme=black&background=2dbec3)](https://git.io/streak-stats) --> 
