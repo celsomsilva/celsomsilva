@@ -45,7 +45,7 @@ If you’re interested in collaborating, learning, or just having a good convers
 
 ---
 
-- Coding Java/C since 2005 | Pascal/Assembly since 1996  
+- Coding Java/C since 2005 
 - Research & applied ML with statistical foundations
 
 
