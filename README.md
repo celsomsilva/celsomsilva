@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub
 
-I'm Celso, a Computer Engineer and Data Science Specialist focused on AI, Machine Learning, Statistical Models, and C/Java/R/Python development.
+I'm Celso, a Computer Engineer since 2005 with a postgraduate degree in Data Science and Analytics focused on AI, Machine Learning, Statistical Models, and C/Java/R/Python development.
 
 ## About this GitHub
 
@@ -27,14 +27,14 @@ You’ll find:
 ## About Private Projects
 
 Some projects remain private due to academic and professional commitments.  
-The public repositories reflect my coding style, research interests, and current work.
+The public repositories reflect my interests, career and current works.
 
 
 ---
 
 ## Contact
 
-If you’re interested in collaborating, learning, or just having a good conversation about AI, ML, Java, or tech in general — feel free to reach out.
+If you’re interested in collaborating, If you’re interested in collaborating, open a pull request.
 
 [LinkedIn](https://linkedin.com/in/celso-m-silva)
 
